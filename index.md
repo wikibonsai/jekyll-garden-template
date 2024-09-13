@@ -5,7 +5,7 @@ title: My Bonsai
 
 👋 Hey there, fellow gardener! 🧑‍🌾
 
-This template is here to help get you started growing your own bonsai 🎋. If you need any guidance you can check out the [jekyll-wikibonsai site](https://jekyll-wikibonsai.netlify.app/) for docs'n'tutorials.
+This template is here to help get you started growing your own bonsai 🎋. If you need any guidance you can check out the [jekyll-garden site](https://jekyll-garden.netlify.app/) for docs'n'tutorials.
 
 > "To plant a garden is to believe in tomorrow."
 > 

@@ -3,7 +3,7 @@ description: "A jeyll template for semantically inclined digital gardeners."
 url: "my-bonsai.com"
 #baseurl: ""
 
-theme: jekyll-wikibonsai
+theme: jekyll-garden
 
 include:
   - "_pages"
